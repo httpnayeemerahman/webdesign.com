@@ -1,0 +1,167 @@
+ /* Extra small devices  */
+@media (max-width: 575.98px) { 
+
+    .banner_item h3 {
+        font-size: 30px;
+    }
+    .banner_item h1 {
+        font-size: 45px;
+    }
+    button:focus {
+        outline: 0px dotted; 
+         outline: 0px auto -webkit-focus-ring-color;
+    }
+    .navbar-toggler {
+        border: 0px solid transparent;
+    }
+    #banner {
+        padding: 135px 0;
+    }
+    .about {
+        padding: 50px 0;
+    }
+    .about_heading h2 {
+        font-size: 25px;
+    }
+    .about_img {
+        margin-bottom: 10px;
+    }
+    .count {
+        padding: 40px 0;
+    }
+    .service {
+        padding: 50px 0;
+    }
+    .service_heading h2 {
+        font-size: 25px;
+    }
+    .testi_icon {
+        text-align: center;
+    }
+    .testi_text p {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .testi_text h6 {
+        font-size: 20px;
+    }
+    .testimonial {
+        padding: 0 0 40px 0;
+    }
+    .team_section h2 {
+        font-size: 25px;
+    }
+    .team_icon i {
+        padding: 9px;
+    }
+    .team_text h3 {
+        margin-top: 10px;
+    }
+    .team_text p {
+        margin-bottom: 20px;
+    }
+    .gallery {
+        padding: 50px 0;
+    }
+    .gallery_heading h2 {
+        font-size: 25px;
+    }
+    .gellary_text h4 {
+        font-size: 13px;
+    }
+    .blogs_page h3 {
+        margin-top: 20px;
+    }
+    .blog_title {
+        padding-top: 16px;
+        font-size: 10px;
+    }
+    .insta_page h3 {
+        margin-top: 20px;
+    }
+ }
+
+
+/* Small devices  */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .banner_item h3 {
+        font-size: 60px;
+    }
+    .banner_item h1 {
+        font-size: 85px;
+    }
+    .navbar-toggler {
+        border: 0px solid transparent;
+    }
+    button:focus {
+        outline: 0px dotted;
+        outline: 0px auto -webkit-focus-ring-color;
+    }
+    #banner {
+        padding: 200px 0;
+    }
+    .about {
+        padding: 50px 0;
+    }
+    .about_img {
+        margin-bottom: 10px;
+    }
+    .count {
+        padding: 50px 0;
+    }
+    .service {
+        padding: 50px 0;
+    }
+    .testi_icon {
+        text-align: center;
+    }
+    .testi_text p {
+        margin-top: 10px;
+    }
+    .testimonial {
+        padding: 0 0 50px 0;
+    }
+    .team_text.text-center {
+        margin-bottom: 25px;
+    }
+    .gallery {
+        padding: 50px 0;
+    }
+    .blogs_page h3 {
+        margin-top: 20px;
+    }
+    .insta_page {
+        margin-top: 20px;
+    }
+
+ }
+
+
+ /* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .banner_item h1 {
+        font-size: 110px;
+    }
+    .navbar-toggler {
+        border: 0px solid transparent;
+    }
+    button:focus {
+        outline: 0px dotted;
+        outline: 0px auto -webkit-focus-ring-color;
+    }
+    .about_overly_icon h3 {
+        font-size: 15px;
+    }
+    .service_text p {
+        font-size: 14px;
+    }
+    .testi_text p {
+        font-size: 20px;
+    }
+    .team_text.text-center {
+        margin-bottom: 35px;
+    }
+
+ }
